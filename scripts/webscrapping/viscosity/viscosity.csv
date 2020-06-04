@@ -1,0 +1,388 @@
+HBA,HBA Mole Fraction,HBD,"Pressure, kPa","Temperature, K","Viscosity, Pa&#8226;s"
+tetraethylammonium chloride,0.3333333333333333,2-hydroxyethanoic acid,101,303.15,0.268
+tetraethylammonium chloride,0.3333333333333333,2-hydroxyethanoic acid,101,323.15,0.087
+tetraethylammonium chloride,0.3333333333333333,2-hydroxyethanoic acid,101,353.15,0.027
+tetraoctylammonium bromide,0.3333333333333333,decanoic acid,101,303.15,0.469
+tetraoctylammonium bromide,0.3333333333333333,decanoic acid,101,323.15,0.174
+tetraoctylammonium bromide,0.3333333333333333,decanoic acid,101,353.15,0.056
+trimethylbenzylammonium chloride,0.5,citric acid,101,312.91,237
+trimethylbenzylammonium chloride,0.5,citric acid,101,317.97,152
+trimethylbenzylammonium chloride,0.5,citric acid,101,323.1,89
+trimethylbenzylammonium chloride,0.5,citric acid,101,327.86,52.1
+trimethylbenzylammonium chloride,0.5,citric acid,101,332.88,28.1
+tetrabutylammonium chloride,0.25,4-oxopentanoic acid,101,293.15,0.1217
+tetrabutylammonium chloride,0.25,4-oxopentanoic acid,101,303.15,0.0656
+tetrabutylammonium chloride,0.25,4-oxopentanoic acid,101,313.15,0.0367
+tetrabutylammonium chloride,0.25,4-oxopentanoic acid,101,323.15,0.0255
+tetrabutylammonium chloride,0.25,4-oxopentanoic acid,101,333.15,0.01747
+tetraethylammonium chloride,0.25,4-oxopentanoic acid,101,293.15,0.1301
+tetraethylammonium chloride,0.25,4-oxopentanoic acid,101,303.15,0.0698
+tetraethylammonium chloride,0.25,4-oxopentanoic acid,101,313.15,0.0391
+tetraethylammonium chloride,0.25,4-oxopentanoic acid,101,323.15,0.0271
+tetraethylammonium chloride,0.25,4-oxopentanoic acid,101,333.15,0.01871
+benzyltriphenylphosphonium chloride,0.25,"1,2-ethanediol",101.3,328.15,0.2
+benzyltriphenylphosphonium chloride,0.25,"1,2-ethanediol",101.3,338.15,0.086
+benzyltriphenylphosphonium chloride,0.25,"1,2-ethanediol",101.3,348.15,0.0593
+benzyltriphenylphosphonium chloride,0.25,"1,2-ethanediol",101.3,358.15,0.0505
+benzyltriphenylphosphonium chloride,0.25,"1,2-ethanediol",101.3,368.15,0.0359
+benzyltriphenylphosphonium chloride,0.167,glycerol,101.3,328.15,0.55
+benzyltriphenylphosphonium chloride,0.167,glycerol,101.3,338.15,0.34
+benzyltriphenylphosphonium chloride,0.167,glycerol,101.3,348.15,0.119
+benzyltriphenylphosphonium chloride,0.167,glycerol,101.3,358.15,0.0755
+benzyltriphenylphosphonium chloride,0.167,glycerol,101.3,368.15,0.0387
+methyltriphenylphosphonium bromide,0.3636,glycerol,101.3,318.15,0.89
+methyltriphenylphosphonium bromide,0.3636,glycerol,101.3,328.15,0.41
+methyltriphenylphosphonium bromide,0.3636,glycerol,101.3,338.15,0.206
+methyltriphenylphosphonium bromide,0.3636,glycerol,101.3,348.15,0.105
+methyltriphenylphosphonium bromide,0.3636,glycerol,101.3,358.15,0.077
+methyltriphenylphosphonium bromide,0.3636,glycerol,101.3,368.15,0.0369
+methyltriphenylphosphonium bromide,0.2,"1,2-ethanediol",101.3,278.1,0.34
+methyltriphenylphosphonium bromide,0.2,"1,2-ethanediol",101.3,288.15,0.186
+methyltriphenylphosphonium bromide,0.2,"1,2-ethanediol",101.3,298.15,0.11
+methyltriphenylphosphonium bromide,0.2,"1,2-ethanediol",101.3,308.15,0.0686
+methyltriphenylphosphonium bromide,0.2,"1,2-ethanediol",101.3,318.15,0.0395
+methyltriphenylphosphonium bromide,0.2,"1,2-ethanediol",101.3,328.15,0.0197
+methyltriphenylphosphonium bromide,0.2,"1,2-ethanediol",101.3,338.15,0.0054
+methyltriphenylphosphonium bromide,0.2,"1,2-ethanediol",101.3,348.15,0.0018
+benzyltriphenylphosphonium chloride,0.0588,glycerol,101,296.842,1.3598
+benzyltriphenylphosphonium chloride,0.0588,glycerol,101,301.895,0.943
+benzyltriphenylphosphonium chloride,0.0588,glycerol,101,307.074,0.654
+benzyltriphenylphosphonium chloride,0.0588,glycerol,101,312.126,0.459
+benzyltriphenylphosphonium chloride,0.0588,glycerol,101,317.305,0.306
+benzyltriphenylphosphonium chloride,0.0588,glycerol,101,322.358,0.238
+benzyltriphenylphosphonium chloride,0.0588,glycerol,101,332.716,0.1105
+benzyltriphenylphosphonium chloride,0.0588,glycerol,101,353.179,0.05949
+methyltriphenylphosphonium bromide,0.25,glycerol,101,296.968,2.771
+methyltriphenylphosphonium bromide,0.25,glycerol,101,301.895,1.657
+methyltriphenylphosphonium bromide,0.25,glycerol,101,306.947,1.0028
+methyltriphenylphosphonium bromide,0.25,glycerol,101,312,0.612
+methyltriphenylphosphonium bromide,0.25,glycerol,101,317.179,0.382
+methyltriphenylphosphonium bromide,0.25,glycerol,101,322.358,0.272
+methyltriphenylphosphonium bromide,0.25,glycerol,101,327.537,0.204
+methyltriphenylphosphonium bromide,0.25,glycerol,101,353.179,0.0595
+trimethylbenzylammonium chloride,0.5,ethanedioic acid,101,293.17,1.971
+trimethylbenzylammonium chloride,0.5,ethanedioic acid,101,298.09,1.3619
+trimethylbenzylammonium chloride,0.5,ethanedioic acid,101,303.11,0.714
+trimethylbenzylammonium chloride,0.5,ethanedioic acid,101,308.12,0.452
+trimethylbenzylammonium chloride,0.5,ethanedioic acid,101,312.95,0.2667
+trimethylbenzylammonium chloride,0.5,ethanedioic acid,101,317.96,0.1973
+trimethylbenzylammonium chloride,0.5,ethanedioic acid,101,323.06,0.1666
+trimethylbenzylammonium chloride,0.5,ethanedioic acid,101,327.98,0.0586
+trimethylbenzylammonium chloride,0.5,ethanedioic acid,101,332.99,0.0277
+trimethylbenzylammonium chloride,0.3,4-methylbenzenesulfonic acid,101,292.97,15.2
+trimethylbenzylammonium chloride,0.3,4-methylbenzenesulfonic acid,101,298,12.9
+trimethylbenzylammonium chloride,0.3,4-methylbenzenesulfonic acid,101,302.95,8.733
+trimethylbenzylammonium chloride,0.3,4-methylbenzenesulfonic acid,101,307.99,5.078
+trimethylbenzylammonium chloride,0.3,4-methylbenzenesulfonic acid,101,313.02,2.889
+trimethylbenzylammonium chloride,0.3,4-methylbenzenesulfonic acid,101,317.95,1.701
+trimethylbenzylammonium chloride,0.3,4-methylbenzenesulfonic acid,101,323.05,1.092
+trimethylbenzylammonium chloride,0.3,4-methylbenzenesulfonic acid,101,328.06,0.791
+trimethylbenzylammonium chloride,0.3,4-methylbenzenesulfonic acid,101,332.98,0.452
+methyltriphenylphosphonium bromide,0.111,"2,2,2-trifluoroacetamide",101.3,278.1,0.66
+methyltriphenylphosphonium bromide,0.111,"2,2,2-trifluoroacetamide",101.3,288.15,0.41
+methyltriphenylphosphonium bromide,0.111,"2,2,2-trifluoroacetamide",101.3,298.15,0.137
+methyltriphenylphosphonium bromide,0.111,"2,2,2-trifluoroacetamide",101.3,308.15,0.071
+methyltriphenylphosphonium bromide,0.111,"2,2,2-trifluoroacetamide",101.3,318.15,0.039
+methyltriphenylphosphonium bromide,0.111,"2,2,2-trifluoroacetamide",101.3,328.15,0.0241
+methyltriphenylphosphonium bromide,0.111,"2,2,2-trifluoroacetamide",101.3,338.15,0.0166
+methyltriphenylphosphonium bromide,0.111,"2,2,2-trifluoroacetamide",101.3,348.15,0.0111
+methyltriphenylphosphonium bromide,0.111,"2,2,2-trifluoroacetamide",101.3,358.15,0.0009
+tetraethylammonium chloride,0.2,phenol,101,303.15,0.0341
+tetraethylammonium chloride,0.25,phenol,101,303.15,0.0386
+tetraethylammonium chloride,0.333,phenol,101,303.15,0.0721
+tetraethylammonium chloride,0.2,phenol,101,313.15,0.02128
+tetraethylammonium chloride,0.25,phenol,101,313.15,0.02468
+tetraethylammonium chloride,0.333,phenol,101,313.15,0.043
+tetraethylammonium chloride,0.2,phenol,101,323.15,0.01434
+tetraethylammonium chloride,0.25,phenol,101,323.15,0.01686
+tetraethylammonium chloride,0.333,phenol,101,323.15,0.0278
+benzyltripropylammonium chloride,0.25,glycerol,101,303.15,1.89
+benzyltripropylammonium chloride,0.25,glycerol,101,308.15,1.18
+benzyltripropylammonium chloride,0.25,glycerol,101,313.15,0.78
+benzyltripropylammonium chloride,0.25,glycerol,101,318.15,0.519
+benzyltripropylammonium chloride,0.25,glycerol,101,323.15,0.359
+benzyltripropylammonium chloride,0.25,glycerol,101,328.15,0.252
+benzyltripropylammonium chloride,0.25,glycerol,101,333.15,0.1801
+benzyltripropylammonium chloride,0.25,glycerol,101,338.15,0.1314
+benzyltripropylammonium chloride,0.25,glycerol,101,343.15,0.097
+benzyltripropylammonium chloride,0.25,2-hydroxypropanoic acid,101,303.15,2.277
+benzyltripropylammonium chloride,0.25,2-hydroxypropanoic acid,101,308.15,1.288
+benzyltripropylammonium chloride,0.25,2-hydroxypropanoic acid,101,313.15,0.78
+benzyltripropylammonium chloride,0.25,2-hydroxypropanoic acid,101,318.15,0.489
+benzyltripropylammonium chloride,0.25,2-hydroxypropanoic acid,101,323.15,0.319
+benzyltripropylammonium chloride,0.25,2-hydroxypropanoic acid,101,328.15,0.216
+benzyltripropylammonium chloride,0.25,2-hydroxypropanoic acid,101,333.15,0.1506
+benzyltripropylammonium chloride,0.25,2-hydroxypropanoic acid,101,338.15,0.1085
+benzyltripropylammonium chloride,0.25,2-hydroxypropanoic acid,101,343.15,0.0813
+benzyltributylammonium chloride,0.25,glycerol,100,298.15,2.328
+benzyltributylammonium chloride,0.25,glycerol,100,303.15,1.709
+benzyltributylammonium chloride,0.25,glycerol,100,308.15,1.112
+benzyltributylammonium chloride,0.25,glycerol,100,313.15,0.741
+benzyltributylammonium chloride,0.25,glycerol,100,318.15,0.498
+benzyltributylammonium chloride,0.25,glycerol,100,323.15,0.346
+benzyltributylammonium chloride,0.25,glycerol,100,328.15,0.255
+benzyltributylammonium chloride,0.25,glycerol,100,333.15,0.1853
+benzyltributylammonium chloride,0.25,glycerol,100,338.15,0.1381
+benzyltributylammonium chloride,0.25,glycerol,100,343.15,0.105
+benzyltripropylammonium chloride,0.25,"1,2-ethanediol",101,293.15,0.328
+benzyltripropylammonium chloride,0.25,"1,2-ethanediol",101,298.15,0.229
+benzyltripropylammonium chloride,0.25,"1,2-ethanediol",101,303.15,0.1646
+benzyltripropylammonium chloride,0.25,"1,2-ethanediol",101,308.15,0.121
+benzyltripropylammonium chloride,0.25,"1,2-ethanediol",101,313.15,0.0908
+benzyltripropylammonium chloride,0.25,"1,2-ethanediol",101,318.15,0.0706
+benzyltripropylammonium chloride,0.25,"1,2-ethanediol",101,323.15,0.0544
+benzyltripropylammonium chloride,0.25,"1,2-ethanediol",101,328.15,0.0421
+benzyltripropylammonium chloride,0.25,"1,2-ethanediol",101,333.15,0.0335
+benzyltripropylammonium chloride,0.25,"1,2-ethanediol",101,338.15,0.027
+benzyltripropylammonium chloride,0.25,"1,2-ethanediol",101,343.15,0.0222
+benzyltripropylammonium chloride,0.25,phenol,101,293.15,0.638
+benzyltripropylammonium chloride,0.25,phenol,101,298.15,0.382
+benzyltripropylammonium chloride,0.25,phenol,101,303.15,0.237
+benzyltripropylammonium chloride,0.25,phenol,101,308.15,0.1567
+benzyltripropylammonium chloride,0.25,phenol,101,313.15,0.107
+benzyltripropylammonium chloride,0.25,phenol,101,318.15,0.0768
+benzyltripropylammonium chloride,0.25,phenol,101,323.15,0.0576
+benzyltripropylammonium chloride,0.25,phenol,101,328.15,0.0431
+benzyltripropylammonium chloride,0.25,phenol,101,333.15,0.0326
+benzyltripropylammonium chloride,0.25,phenol,101,338.15,0.0258
+benzyltripropylammonium chloride,0.25,phenol,101,343.15,0.0204
+trimethylbenzylammonium chloride,0.25,glycerol,100,288.15,1.875
+trimethylbenzylammonium chloride,0.25,glycerol,100,293.15,1.171
+trimethylbenzylammonium chloride,0.25,glycerol,100,298.15,0.753
+trimethylbenzylammonium chloride,0.25,glycerol,100,303.15,0.501
+trimethylbenzylammonium chloride,0.25,glycerol,100,308.15,0.343
+trimethylbenzylammonium chloride,0.25,glycerol,100,313.15,0.238
+trimethylbenzylammonium chloride,0.25,glycerol,100,318.15,0.1718
+trimethylbenzylammonium chloride,0.25,glycerol,100,323.15,0.1267
+trimethylbenzylammonium chloride,0.25,glycerol,100,328.15,0.0954
+trimethylbenzylammonium chloride,0.25,glycerol,100,333.15,0.073
+trimethylbenzylammonium chloride,0.25,glycerol,100,338.15,0.0582
+trimethylbenzylammonium chloride,0.25,glycerol,100,343.15,0.0463
+trimethylbenzylammonium chloride,0.25,diethylene glycol,100,283.15,0.263
+trimethylbenzylammonium chloride,0.25,diethylene glycol,100,288.15,0.1854
+trimethylbenzylammonium chloride,0.25,diethylene glycol,100,293.15,0.1341
+trimethylbenzylammonium chloride,0.25,diethylene glycol,100,298.15,0.0986
+trimethylbenzylammonium chloride,0.25,diethylene glycol,100,303.15,0.0748
+trimethylbenzylammonium chloride,0.25,diethylene glycol,100,308.15,0.0579
+trimethylbenzylammonium chloride,0.25,diethylene glycol,100,313.15,0.0444
+trimethylbenzylammonium chloride,0.25,diethylene glycol,100,318.15,0.0348
+trimethylbenzylammonium chloride,0.25,diethylene glycol,100,323.15,0.0278
+trimethylbenzylammonium chloride,0.25,diethylene glycol,100,328.15,0.0232
+trimethylbenzylammonium chloride,0.25,diethylene glycol,100,333.15,0.0187
+trimethylbenzylammonium chloride,0.25,diethylene glycol,100,338.15,0.016
+trimethylbenzylammonium chloride,0.25,diethylene glycol,100,343.15,0.0142
+trimethylbenzylammonium chloride,0.25,"1,2-ethanediol",100,283.15,0.1019
+trimethylbenzylammonium chloride,0.25,"1,2-ethanediol",100,288.15,0.0761
+trimethylbenzylammonium chloride,0.25,"1,2-ethanediol",100,293.15,0.0582
+trimethylbenzylammonium chloride,0.25,"1,2-ethanediol",100,298.15,0.0453
+trimethylbenzylammonium chloride,0.25,"1,2-ethanediol",100,303.15,0.0359
+trimethylbenzylammonium chloride,0.25,"1,2-ethanediol",100,308.15,0.029
+trimethylbenzylammonium chloride,0.25,"1,2-ethanediol",100,313.15,0.0239
+trimethylbenzylammonium chloride,0.25,"1,2-ethanediol",100,318.15,0.0199
+trimethylbenzylammonium chloride,0.25,"1,2-ethanediol",100,323.15,0.0168
+trimethylbenzylammonium chloride,0.25,"1,2-ethanediol",100,328.15,0.0143
+trimethylbenzylammonium chloride,0.25,"1,2-ethanediol",100,333.15,0.0123
+trimethylbenzylammonium chloride,0.25,"1,2-ethanediol",100,338.15,0.0107
+trimethylbenzylammonium chloride,0.25,"1,2-ethanediol",100,343.15,0.0095
+benzyltributylammonium chloride,0.25,"1,2-ethanediol",100,283.15,0.901
+benzyltributylammonium chloride,0.25,"1,2-ethanediol",100,288.15,0.598
+benzyltributylammonium chloride,0.25,"1,2-ethanediol",100,293.15,0.415
+benzyltributylammonium chloride,0.25,"1,2-ethanediol",100,298.15,0.286
+benzyltributylammonium chloride,0.25,"1,2-ethanediol",100,303.15,0.211
+benzyltributylammonium chloride,0.25,"1,2-ethanediol",100,308.15,0.1555
+benzyltributylammonium chloride,0.25,"1,2-ethanediol",100,313.15,0.1171
+benzyltributylammonium chloride,0.25,"1,2-ethanediol",100,318.15,0.0899
+benzyltributylammonium chloride,0.25,"1,2-ethanediol",100,323.15,0.0707
+benzyltributylammonium chloride,0.25,"1,2-ethanediol",100,328.15,0.0558
+benzyltributylammonium chloride,0.25,"1,2-ethanediol",100,333.15,0.0436
+benzyltributylammonium chloride,0.25,"1,2-ethanediol",100,338.15,0.0349
+benzyltributylammonium chloride,0.25,"1,2-ethanediol",100,343.15,0.0281
+benzyltributylammonium chloride,0.25,triethylene glycol,100,283.15,0.739
+benzyltributylammonium chloride,0.25,triethylene glycol,100,288.15,0.506
+benzyltributylammonium chloride,0.25,triethylene glycol,100,293.15,0.357
+benzyltributylammonium chloride,0.25,triethylene glycol,100,298.15,0.257
+benzyltributylammonium chloride,0.25,triethylene glycol,100,303.15,0.1885
+benzyltributylammonium chloride,0.25,triethylene glycol,100,308.15,0.1424
+benzyltributylammonium chloride,0.25,triethylene glycol,100,313.15,0.1091
+benzyltributylammonium chloride,0.25,triethylene glycol,100,318.15,0.0852
+benzyltributylammonium chloride,0.25,triethylene glycol,100,323.15,0.0677
+benzyltributylammonium chloride,0.25,triethylene glycol,100,328.15,0.0544
+benzyltributylammonium chloride,0.25,triethylene glycol,100,333.15,0.0433
+benzyltributylammonium chloride,0.25,triethylene glycol,100,338.15,0.0349
+benzyltributylammonium chloride,0.25,triethylene glycol,100,343.15,0.0283
+benzyltributylammonium chloride,0.25,diethylene glycol,100,283.15,0.962
+benzyltributylammonium chloride,0.25,diethylene glycol,100,288.15,0.644
+benzyltributylammonium chloride,0.25,diethylene glycol,100,293.15,0.434
+benzyltributylammonium chloride,0.25,diethylene glycol,100,298.15,0.31
+benzyltributylammonium chloride,0.25,diethylene glycol,100,303.15,0.225
+benzyltributylammonium chloride,0.25,diethylene glycol,100,308.15,0.1684
+benzyltributylammonium chloride,0.25,diethylene glycol,100,313.15,0.1252
+benzyltributylammonium chloride,0.25,diethylene glycol,100,318.15,0.0968
+benzyltributylammonium chloride,0.25,diethylene glycol,100,323.15,0.0762
+benzyltributylammonium chloride,0.25,diethylene glycol,100,328.15,0.0626
+benzyltributylammonium chloride,0.25,diethylene glycol,100,333.15,0.0504
+benzyltributylammonium chloride,0.25,diethylene glycol,100,338.15,0.04068
+benzyltributylammonium chloride,0.25,diethylene glycol,100,343.15,0.03276
+trimethylbenzylammonium chloride,0.25,triethylene glycol,100,283.15,0.62
+trimethylbenzylammonium chloride,0.25,triethylene glycol,100,288.15,0.471
+trimethylbenzylammonium chloride,0.25,triethylene glycol,100,293.15,0.37
+trimethylbenzylammonium chloride,0.25,triethylene glycol,100,298.15,0.309
+trimethylbenzylammonium chloride,0.25,triethylene glycol,100,303.15,0.214
+trimethylbenzylammonium chloride,0.25,triethylene glycol,100,308.15,0.1557
+trimethylbenzylammonium chloride,0.25,triethylene glycol,100,313.15,0.1156
+trimethylbenzylammonium chloride,0.25,triethylene glycol,100,318.15,0.0878
+trimethylbenzylammonium chloride,0.25,triethylene glycol,100,323.15,0.0685
+trimethylbenzylammonium chloride,0.25,triethylene glycol,100,328.15,0.0549
+trimethylbenzylammonium chloride,0.25,triethylene glycol,100,333.15,0.0435
+trimethylbenzylammonium chloride,0.25,triethylene glycol,100,338.15,0.0343
+trimethylbenzylammonium chloride,0.25,triethylene glycol,100,343.15,0.0274
+methyltriphenylphosphonium bromide,0.11,2-aminoethan-1-ol,101.3,298.15,0.0277
+methyltriphenylphosphonium bromide,0.13,2-aminoethan-1-ol,101.3,298.15,0.028
+methyltriphenylphosphonium bromide,0.14,2-aminoethan-1-ol,101.3,298.15,0.0355
+methyltriphenylphosphonium bromide,0.11,2-aminoethan-1-ol,101.3,308.15,0.02
+methyltriphenylphosphonium bromide,0.13,2-aminoethan-1-ol,101.3,308.15,0.02
+methyltriphenylphosphonium bromide,0.14,2-aminoethan-1-ol,101.3,308.15,0.0207
+methyltriphenylphosphonium bromide,0.11,2-aminoethan-1-ol,101.3,318.15,0.0136
+methyltriphenylphosphonium bromide,0.13,2-aminoethan-1-ol,101.3,318.15,0.0131
+methyltriphenylphosphonium bromide,0.14,2-aminoethan-1-ol,101.3,318.15,0.0136
+methyltriphenylphosphonium bromide,0.11,2-aminoethan-1-ol,101.3,328.15,0.0095
+methyltriphenylphosphonium bromide,0.13,2-aminoethan-1-ol,101.3,328.15,0.0091
+methyltriphenylphosphonium bromide,0.14,2-aminoethan-1-ol,101.3,328.15,0.01
+methyltriphenylphosphonium bromide,0.11,2-aminoethan-1-ol,101.3,338.15,0.007
+methyltriphenylphosphonium bromide,0.13,2-aminoethan-1-ol,101.3,338.15,0.0069
+methyltriphenylphosphonium bromide,0.14,2-aminoethan-1-ol,101.3,338.15,0.0075
+methyltriphenylphosphonium bromide,0.11,2-aminoethan-1-ol,101.3,348.15,0.0054
+methyltriphenylphosphonium bromide,0.13,2-aminoethan-1-ol,101.3,348.15,0.0054
+methyltriphenylphosphonium bromide,0.14,2-aminoethan-1-ol,101.3,348.15,0.0056
+methyltriphenylphosphonium bromide,0.11,2-aminoethan-1-ol,101.3,358.15,0.0047
+methyltriphenylphosphonium bromide,0.13,2-aminoethan-1-ol,101.3,358.15,0.0048
+methyltriphenylphosphonium bromide,0.14,2-aminoethan-1-ol,101.3,358.15,0.0049
+tetrabutylammonium chloride,0.167,glycerol,101,293.15,1.1
+tetrabutylammonium chloride,0.2,glycerol,101,293.15,0.95
+tetrabutylammonium chloride,0.25,glycerol,101,293.15,1.17
+tetrabutylammonium chloride,0.167,glycerol,101,303.15,0.541
+tetrabutylammonium chloride,0.2,glycerol,101,303.15,0.476
+tetrabutylammonium chloride,0.25,glycerol,101,303.15,0.58
+tetrabutylammonium chloride,0.167,glycerol,101,313.15,0.261
+tetrabutylammonium chloride,0.2,glycerol,101,313.15,0.225
+tetrabutylammonium chloride,0.25,glycerol,101,313.15,0.293
+tetrabutylammonium chloride,0.167,glycerol,101,323.15,0.137
+tetrabutylammonium chloride,0.2,glycerol,101,323.15,0.116
+tetrabutylammonium chloride,0.25,glycerol,101,323.15,0.157
+tetrabutylammonium chloride,0.167,glycerol,101,333.15,0.0784
+tetrabutylammonium chloride,0.2,glycerol,101,333.15,0.0647
+tetrabutylammonium chloride,0.25,glycerol,101,333.15,0.0907
+tetrabutylammonium chloride,0.167,glycerol,101,343.15,0.0476
+tetrabutylammonium chloride,0.2,glycerol,101,343.15,0.0419
+tetrabutylammonium chloride,0.25,glycerol,101,343.15,0.0567
+tetrabutylammonium chloride,0.167,glycerol,101,353.15,0.032
+tetrabutylammonium chloride,0.2,glycerol,101,353.15,0.025
+tetrabutylammonium chloride,0.25,glycerol,101,353.15,0.0367
+tetrabutylammonium chloride,0.2,"1,2-ethanediol",101,293.15,0.0853
+tetrabutylammonium chloride,0.25,"1,2-ethanediol",101,293.15,0.105
+tetrabutylammonium chloride,0.333,"1,2-ethanediol",101,293.15,0.212
+tetrabutylammonium chloride,0.2,"1,2-ethanediol",101,303.15,0.0569
+tetrabutylammonium chloride,0.25,"1,2-ethanediol",101,303.15,0.0719
+tetrabutylammonium chloride,0.333,"1,2-ethanediol",101,303.15,0.127
+tetrabutylammonium chloride,0.2,"1,2-ethanediol",101,313.15,0.0372
+tetrabutylammonium chloride,0.25,"1,2-ethanediol",101,313.15,0.0452
+tetrabutylammonium chloride,0.333,"1,2-ethanediol",101,313.15,0.0764
+tetrabutylammonium chloride,0.2,"1,2-ethanediol",101,323.15,0.0263
+tetrabutylammonium chloride,0.25,"1,2-ethanediol",101,323.15,0.0294
+tetrabutylammonium chloride,0.333,"1,2-ethanediol",101,323.15,0.0493
+tetrabutylammonium chloride,0.2,"1,2-ethanediol",101,333.15,0.0197
+tetrabutylammonium chloride,0.25,"1,2-ethanediol",101,333.15,0.0202
+tetrabutylammonium chloride,0.333,"1,2-ethanediol",101,333.15,0.0336
+tetrabutylammonium chloride,0.2,"1,2-ethanediol",101,343.15,0.0149
+tetrabutylammonium chloride,0.25,"1,2-ethanediol",101,343.15,0.0145
+tetrabutylammonium chloride,0.333,"1,2-ethanediol",101,343.15,0.0235
+tetrabutylammonium chloride,0.2,"1,2-ethanediol",101,353.15,0.0105
+tetrabutylammonium chloride,0.25,"1,2-ethanediol",101,353.15,0.0107
+tetrabutylammonium chloride,0.333,"1,2-ethanediol",101,353.15,0.016
+tetrapropylammonium bromide,0.2,"1,2-ethanediol",101,294,0.98
+tetrapropylammonium bromide,0.2,"1,2-ethanediol",101,302.8,0.52
+tetrapropylammonium bromide,0.2,"1,2-ethanediol",101,313.7,0.217
+tetrapropylammonium bromide,0.2,"1,2-ethanediol",101,322.9,0.1
+tetrapropylammonium bromide,0.2,"1,2-ethanediol",101,333.5,0.049
+tetrapropylammonium bromide,0.2,"1,2-ethanediol",101,343.2,0.0268
+tetrapropylammonium bromide,0.2,"1,2-ethanediol",101,352.8,0.0049
+tetrapropylammonium bromide,0.25,"1,2-ethanediol",101,294.8,0.88
+tetrapropylammonium bromide,0.25,"1,2-ethanediol",101,303.4,0.56
+tetrapropylammonium bromide,0.25,"1,2-ethanediol",101,313.7,0.246
+tetrapropylammonium bromide,0.25,"1,2-ethanediol",101,323.9,0.107
+tetrapropylammonium bromide,0.25,"1,2-ethanediol",101,333.7,0.056
+tetrapropylammonium bromide,0.25,"1,2-ethanediol",101,344,0.034
+tetrapropylammonium bromide,0.25,"1,2-ethanediol",101,352.8,0.0195
+tetrapropylammonium bromide,0.3333,"1,2-ethanediol",101,293.8,1.505
+tetrapropylammonium bromide,0.3333,"1,2-ethanediol",101,304,0.69
+tetrapropylammonium bromide,0.3333,"1,2-ethanediol",101,313.7,0.32
+tetrapropylammonium bromide,0.3333,"1,2-ethanediol",101,323.9,0.144
+tetrapropylammonium bromide,0.3333,"1,2-ethanediol",101,334.1,0.071
+tetrapropylammonium bromide,0.3333,"1,2-ethanediol",101,343.6,0.042
+tetrapropylammonium bromide,0.3333,"1,2-ethanediol",101,352.8,0.0195
+tetrapropylammonium bromide,0.25,triethylene glycol,101,296.2,0.081
+tetrapropylammonium bromide,0.25,triethylene glycol,101,303.4,0.062
+tetrapropylammonium bromide,0.25,triethylene glycol,101,314.1,0.038
+tetrapropylammonium bromide,0.25,triethylene glycol,101,323.7,0.0257
+tetrapropylammonium bromide,0.25,triethylene glycol,101,334.1,0.0177
+tetrapropylammonium bromide,0.25,triethylene glycol,101,344,0.012
+tetrapropylammonium bromide,0.25,triethylene glycol,101,353.8,0.0097
+tetrapropylammonium bromide,0.3333,triethylene glycol,101,293,0.117
+tetrapropylammonium bromide,0.3333,triethylene glycol,101,303.6,0.074
+tetrapropylammonium bromide,0.3333,triethylene glycol,101,313.3,0.047
+tetrapropylammonium bromide,0.3333,triethylene glycol,101,323.3,0.0314
+tetrapropylammonium bromide,0.3333,triethylene glycol,101,333.3,0.0223
+tetrapropylammonium bromide,0.3333,triethylene glycol,101,343.8,0.0154
+tetrapropylammonium bromide,0.3333,triethylene glycol,101,353.6,0.0114
+tetrapropylammonium bromide,0.4,triethylene glycol,101,294.8,0.118
+tetrapropylammonium bromide,0.4,triethylene glycol,101,304,0.078
+tetrapropylammonium bromide,0.4,triethylene glycol,101,313.9,0.049
+tetrapropylammonium bromide,0.4,triethylene glycol,101,323.7,0.0331
+tetrapropylammonium bromide,0.4,triethylene glycol,101,333.7,0.0211
+tetrapropylammonium bromide,0.4,triethylene glycol,101,343.8,0.016
+tetrapropylammonium bromide,0.4,triethylene glycol,101,353.6,0.0131
+tetrapropylammonium bromide,0.25,glycerol,101,296.8,0.041
+tetrapropylammonium bromide,0.25,glycerol,101,303.6,0.0327
+tetrapropylammonium bromide,0.25,glycerol,101,313.7,0.0212
+tetrapropylammonium bromide,0.25,glycerol,101,323.7,0.0143
+tetrapropylammonium bromide,0.25,glycerol,101,333.9,0.0106
+tetrapropylammonium bromide,0.25,glycerol,101,344,0.0073
+tetrapropylammonium bromide,0.25,glycerol,101,353.8,0.0057
+tetrapropylammonium bromide,0.3333,glycerol,101,294.4,0.056
+tetrapropylammonium bromide,0.3333,glycerol,101,303.6,0.041
+tetrapropylammonium bromide,0.3333,glycerol,101,313.9,0.0253
+tetrapropylammonium bromide,0.3333,glycerol,101,323.7,0.0176
+tetrapropylammonium bromide,0.3333,glycerol,101,333.7,0.0118
+tetrapropylammonium bromide,0.3333,glycerol,101,343.8,0.0086
+tetrapropylammonium bromide,0.3333,glycerol,101,354.2,0.0069
+tetrapropylammonium bromide,0.5,glycerol,101,294,0.086
+tetrapropylammonium bromide,0.5,glycerol,101,303.8,0.059
+tetrapropylammonium bromide,0.5,glycerol,101,313.7,0.035
+tetrapropylammonium bromide,0.5,glycerol,101,324.1,0.0233
+tetrapropylammonium bromide,0.5,glycerol,101,333.9,0.0159
+tetrapropylammonium bromide,0.5,glycerol,101,344,0.011
+tetrapropylammonium bromide,0.5,glycerol,101,354,0.0086
+tetrabutylammonium chloride,0.5,triethylene glycol,101,293.15,0.87
+tetrabutylammonium chloride,0.5,triethylene glycol,101,303.15,0.544
+tetrabutylammonium chloride,0.667,triethylene glycol,101,303.15,1.399
+tetrabutylammonium chloride,0.8,triethylene glycol,101,303.15,3.265
+tetrabutylammonium chloride,0.5,triethylene glycol,101,313.15,0.289
+tetrabutylammonium chloride,0.667,triethylene glycol,101,313.15,0.95
+tetrabutylammonium chloride,0.75,triethylene glycol,101,313.15,7.032
+tetrabutylammonium chloride,0.8,triethylene glycol,101,313.15,1.9
+tetrabutylammonium chloride,0.5,triethylene glycol,101,323.15,0.166
+tetrabutylammonium chloride,0.667,triethylene glycol,101,323.15,0.493
+tetrabutylammonium chloride,0.75,triethylene glycol,101,323.15,0.91
+tetrabutylammonium chloride,0.8,triethylene glycol,101,323.15,0.863
+tetrabutylammonium chloride,0.5,triethylene glycol,101,333.15,0.101
+tetrabutylammonium chloride,0.667,triethylene glycol,101,333.15,0.264
+tetrabutylammonium chloride,0.75,triethylene glycol,101,333.15,0.452
+tetrabutylammonium chloride,0.8,triethylene glycol,101,333.15,0.411
+tetrabutylammonium chloride,0.5,triethylene glycol,101,343.15,0.0681
+tetrabutylammonium chloride,0.667,triethylene glycol,101,343.15,0.154
+tetrabutylammonium chloride,0.75,triethylene glycol,101,343.15,0.245
+tetrabutylammonium chloride,0.8,triethylene glycol,101,343.15,0.204
+tetrabutylammonium chloride,0.5,triethylene glycol,101,353.15,0.0447
+tetrabutylammonium chloride,0.667,triethylene glycol,101,353.15,0.0913
+tetrabutylammonium chloride,0.75,triethylene glycol,101,353.15,0.156
+tetrabutylammonium chloride,0.8,triethylene glycol,101,353.15,0.1
