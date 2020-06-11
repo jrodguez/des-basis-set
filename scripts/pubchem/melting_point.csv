@@ -1,0 +1,178 @@
+HBA,HBD,HBA Tmp (¡C),HBD Tmp (¡C),HBA_Ratio,HBD_Ratio,Mole Fraction of HBA,Mole Fraction of HBD,DES Tmp (¡C)
+choline chloride,urea,302.0,134.0,1.0,2.0,0.333333333,0.666666667,12
+choline chloride,thiourea,302.0,175.0,1.0,3.0,0.25,0.75,<10
+choline chloride,trifluoroacetamide,302.0,72.0,1.0,2.0,0.333333333,0.666666667,-44
+choline chloride,propanoic acid,302.0,-21.0,1.0,2.0,0.333333333,0.666666667,<-80
+choline chloride,chloroacetic acid,302.0,63.0,1.0,2.0,0.333333333,0.666666667,<-80
+choline chloride,trichloroacetic acid,302.0,58.0,1.0,2.0,0.333333333,0.666666667,<-80
+choline chloride,phenylacetic acid,302.0,77.0,1.0,2.0,0.333333333,0.666666667,25
+choline chloride,phenylpropanoic acid ,302.0,48.0,1.0,2.0,0.333333333,0.666666667,20
+choline chloride,malonic acid,302.0,135.0,1.0,1.0,0.5,0.5,10
+choline chloride,glutaric acid,302.0,98.0,1.0,1.0,0.5,0.5,-16
+choline chloride,glycolic acid,302.0,75.0,1.0,1.0,0.5,0.5,-16
+choline chloride,lactic acid,302.0,16.8,1.0,2.0,0.333333333,0.666666667,-78
+choline chloride,levulinic acid,302.0,32.0,1.0,3.0,0.25,0.75,-11
+choline chloride,oxalic acid ,302.0,190.0,1.0,1.0,0.5,0.5,-40
+choline chloride,malic acid,302.0,100.0,1.0,1.0,0.5,0.5,-56
+choline chloride,trifluoromethanesulfonic acid,302.0,-40.0,,,,,<25
+choline chloride,tosylic acid,302.0,100.4,1.0,2.0,0.333333333,0.666666667,<-80
+choline chloride,ethylene glycol,302.0,-12.9,1.0,2.0,0.333333333,0.666666667,-66
+choline chloride,diethylene glycol,302.0,-10.45,1.0,3.0,0.25,0.75,<-20
+choline chloride,triethylene glycol,302.0,-7.0,1.0,3.0,0.25,0.75,-19.8
+choline chloride,glycerol,302.0,17.8,1.0,2.0,0.333333333,0.666666667,-40
+choline chloride,"1,2-propanediol",302.0,-59.0,1.0,3.0,0.25,0.75,<-20
+choline chloride,"1,4-butanediol",302.0,20.1,1.0,2.0,0.333333333,0.666666667,-32
+choline chloride,"2,3-butanediol",302.0,19.0,1.0,3.0,0.25,0.75,<-20
+choline chloride,furfuryl alcohol,302.0,-29.0,1.0,3.0,0.25,0.75,-36
+choline chloride,xylitol,302.0,96.0,1.0,1.0,0.5,0.5,LRT
+choline chloride,d-sorbitol,302.0,99.0,1.0,1.0,0.5,0.5,9
+choline chloride,xylose,302.0,145.0,1.0,1.0,0.5,0.5,LRT
+choline chloride,fructose,302.0,103.0,2.0,1.0,0.666666667,0.333333333,10
+choline chloride,glucose,302.0,146.0,2.0,1.0,0.666666667,0.333333333,15
+choline chloride,sucrose,302.0,186.0,1.0,1.0,0.5,0.5,LRT
+choline chloride,phenol,302.0,40.5,1.0,3.0,0.25,0.75,-20
+choline chloride,o-cresol,302.0,31.0,1.0,3.0,0.25,0.75,-24
+choline chloride,p-cresol,302.0,35.5,1.0,2.0,0.333333333,0.666666667,<20
+choline chloride,"2,3-dimethylphenol",302.0,75.0,1.0,3.0,0.25,0.75,18
+choline chloride,4-chlorophenol,302.0,42.8,4.0,5.0,0.444444444,0.5555555560000001,<20
+choline chloride,2-methoxyphenol,302.0,32.0,1.0,3.0,0.25,0.75,<20
+choline chloride,ethanolamine,302.0,10.3,1.0,2.0,0.333333333,0.666666667,<-20
+choline chloride,triethanolamine,302.0,21.6,1.0,2.0,0.333333333,0.666666667,LRT
+choline acetate,urea,85.0,134.0,1.0,2.0,0.333333333,0.666666667,18
+choline acetate,glycerol,85.0,17.8,1.0,1.5,0.4,0.6,13
+choline bromide,levulinic acid,298.0,32.0,1.0,4.0,0.2,0.8,10.7
+choline fluoride,urea,,134.0,1.0,2.0,0.333333333,0.666666667,1
+choline nitrate,urea,,134.0,1.0,2.0,0.333333333,0.666666667,4
+(2-chloroethyl)trimethylammonium chloride,urea,239.0,134.0,1.0,2.0,0.333333333,0.666666667,15
+ethyl(2-hydroxyethyl)dimethylammonium chloride,urea,,134.0,1.0,2.0,0.333333333,0.666666667,-38
+benzyl(2-hydroxyethyl)dimethylammonium chloride,urea,78.0,134.0,1.0,2.0,0.333333333,0.666666667,-33
+benzyl(2-hydroxyethyl)dimethylammonium chloride,levulinic acid,78.0,32.0,1.0,2.0,0.333333333,0.666666667,<20
+benzyl(2-hydroxyethyl)dimethylammonium chloride,xylose,78.0,145.0,1.0,1.0,0.5,0.5,-30
+benzyl(2-hydroxyethyl)dimethylammonium chloride,ribose,78.0,95.0,1.0,1.0,0.5,0.5,-28
+benzyl(2-hydroxyethyl)dimethylammonium chloride,glucose,78.0,146.0,1.0,1.0,0.5,0.5,-7
+benzyl(2-hydroxyethyl)dimethylammonium chloride,mannose,78.0,132.0,1.0,1.0,0.5,0.5,-16
+benzyl(2-hydroxyethyl)dimethylammonium chloride,fructose,78.0,103.0,1.0,1.0,0.5,0.5,-47
+acetylcholine chloride,urea,150.0,134.0,1.0,2.0,0.333333333,0.666666667,-14
+acetylcholine chloride,imidazole,150.0,89.0,1.0,3.0,0.25,0.75,-66
+acetylcholine chloride,"1,2,4-triazole",150.0,120.0,1.0,1.0,0.5,0.5,-65
+acetylcholine chloride,xylose,150.0,145.0,1.0,1.0,0.5,0.5,-11
+acetylcholine chloride,ribose,150.0,95.0,1.0,1.0,0.5,0.5,-49
+acetylcholine chloride,glucose,150.0,146.0,1.0,1.0,0.5,0.5,-7
+acetylcholine chloride,mannose,150.0,132.0,1.0,1.0,0.5,0.5,-45
+acetylcholine chloride,fructose,150.0,103.0,1.0,1.0,0.5,0.5,-49
+acetylcholine chloride,2-methoxyphenol,150.0,32.0,1.0,3.0,0.25,0.75,<20
+tetramethylammonium chloride,acetic acid,420.0,16.6,1.0,4.0,0.2,0.8,<-20
+tetramethylammonium chloride,decanoic acid,420.0,31.6,2.0,9.0,0.181818182,0.818181818,26
+tetramethylammonium chloride,lactic acid,420.0,16.8,1.0,2.0,0.333333333,0.666666667,-69
+ethylammonium chloride,glycerol,108.0,17.8,1.0,4.0,0.2,0.8,-58
+ethylammonium chloride,urea,108.0,134.0,2.0,3.0,0.4,0.6,30
+ethylammonium chloride,trifluoroacetamide,108.0,72.0,2.0,3.0,0.4,0.6,20
+ethylammonium bromide,glycerol,160.0,17.8,1.0,2.0,0.333333333,0.666666667,-6
+ethylammonium bromide,2-methoxyphenol,160.0,32.0,1.0,3.0,0.25,0.75,<20
+beta-(Diethylamino)ethyl alcohol hydrochloride,ethylene glycol,136.0,-12.9,1.0,2.0,0.333333333,0.666666667,-31.0
+beta-(Diethylamino)ethyl alcohol hydrochloride,glycerol,136.0,17.8,1.0,2.0,0.333333333,0.666666667,-1.3
+beta-(Diethylamino)ethyl alcohol hydrochloride,triethylene glycol,136.0,-7.0,1.0,4.0,0.2,0.8,-16.6
+triethylmethylammonium chloride,acetic acid,284.0,16.6,1.0,2.0,0.333333333,0.666666667,<-20
+tetraethylammonium chloride,acetic acid,360.0,16.6,1.0,2.0,0.333333333,0.666666667,
+tetraethylammonium chloride,butanoic acid,360.0,-7.9,1.0,2.0,0.333333333,0.666666667,<25
+tetraethylammonium chloride,hexanoic acid,360.0,-3.4,1.0,2.0,0.333333333,0.666666667,<25
+tetraethylammonium chloride,octanoic acid,360.0,16.7,1.0,2.0,0.333333333,0.666666667,<25
+tetraethylammonium chloride,decanoic acid,360.0,31.6,2.0,3.0,0.4,0.6,24
+tetraethylammonium chloride,levulinic acid,360.0,32.0,1.0,4.0,0.2,0.8,<-60
+tetraethylammonium chloride,lactic acid,360.0,16.8,1.0,2.0,0.333333333,0.666666667,-71
+tetraethylammonium bromide,ethylene glycol,286.0,-12.9,1.0,4.0,0.2,0.8,-24
+tetraethylammonium bromide,glycerol,286.0,17.8,1.0,2.0,0.333333333,0.666666667,-6
+tetraethylammonium bromide,triethylene glycol,286.0,-7.0,1.0,4.0,0.2,0.8,<-60
+tetraethylammonium bromide,levulinic acid,286.0,32.0,1.0,4.0,0.2,0.8,<-60
+propylammonium bromide,glycerol,182.0,17.8,1.0,2.0,0.333333333,0.666666667,-4
+tetrapropylammonium chloride,acetic acid,242.0,16.6,1.0,6.0,0.14285714300000002,0.857142857,<-20
+tetrapropylammonium chloride,butanoic acid,242.0,-7.9,1.0,2.0,0.333333333,0.666666667,<25
+tetrapropylammonium chloride,hexanoic acid,242.0,-3.4,1.0,2.0,0.333333333,0.666666667,<25
+tetrapropylammonium chloride,octanoic acid,242.0,16.7,1.0,2.0,0.333333333,0.666666667,<25
+tetrapropylammonium chloride,decanoic acid,242.0,31.6,2.0,5.0,0.28571428600000004,0.7142857140000001,15
+tetrapropylammonium chloride,dodecanoic acid,242.0,43.2,1.0,2.0,0.333333333,0.666666667,25
+tetrapropylammonium chloride,levulinic acid,242.0,32.0,1.0,4.0,0.2,0.8,<-60
+tetrapropylammonium chloride,ethanolamine,242.0,10.3,1.0,4.0,0.2,0.8,<-20
+tetrapropylammonium bromide,ethylene glycol,270.0,-12.9,1.0,4.0,0.2,0.8,-23
+tetrapropylammonium bromide,glycerol,270.0,17.8,1.0,3.0,0.25,0.75,-16
+tetrapropylammonium bromide,triethylene glycol,270.0,-7.0,1.0,3.0,0.25,0.75,-19
+tetrapropylammonium bromide,butanoic acid,270.0,-7.9,1.0,2.0,0.333333333,0.666666667,<25
+tetrapropylammonium bromide,hexanoic acid,270.0,-3.4,1.0,2.0,0.333333333,0.666666667,<25
+tetrapropylammonium bromide,levulinic acid,270.0,32.0,1.0,4.0,0.2,0.8,<-60
+butylammonium bromide,glycerol,205.0,17.8,1.0,2.0,0.333333333,0.666666667,-10
+decyltrimethylammonium bromide,hexafluoroisopropanol,235.0,-3.3,1.0,2.0,0.333333333,0.666666667,-25
+dodecyltrimethylammonium bromide,hexafluoroisopropanol,230.0,-3.3,1.0,2.0,0.333333333,0.666666667,-29
+tetradecyltrimethylammonium bromide,hexafluoroisopropanol,248.0,-3.3,1.0,2.0,0.333333333,0.666666667,-33
+tetrabutylammonium chloride,urea,50.0,134.0,4.0,1.0,0.8,0.2,27
+tetrabutylammonium chloride,ethylene glycol,50.0,-12.9,1.0,3.0,0.25,0.75,-31
+tetrabutylammonium chloride,glycerol,50.0,17.8,1.0,4.0,0.2,0.8,-43
+tetrabutylammonium chloride,triethylene glycol,50.0,-7.0,1.0,3.0,0.25,0.75,-13
+tetrabutylammonium chloride,acetic acid,50.0,16.6,1.0,2.0,0.333333333,0.666666667,<-20
+tetrabutylammonium chloride,propanoic acid,50.0,-21.0,1.0,2.0,0.333333333,0.666666667,<15
+tetrabutylammonium chloride,butanoic acid,50.0,-7.9,1.0,2.0,0.333333333,0.666666667,<25
+tetrabutylammonium chloride,decanoic acid,50.0,31.6,1.0,2.0,0.333333333,0.666666667,-12.0
+tetrabutylammonium chloride,dodecanoic acid,50.0,43.2,,,,,<25
+tetrabutylammonium chloride,phenylacetic acid,50.0,77.0,1.0,2.0,0.333333333,0.666666667,<15
+tetrabutylammonium chloride,levulinic acid,50.0,32.0,1.0,4.0,0.2,0.8,<-60
+tetrabutylammonium chloride,lactic acid,50.0,16.8,1.0,2.0,0.333333333,0.666666667,-66
+tetrabutylammonium chloride,aspartic acid,50.0,270.0,1.0,9.0,0.1,0.9,25.0
+tetrabutylammonium chloride,glutamic acid,50.0,199.0,1.0,10.0,0.090909091,0.9090909090000001,28.8
+tetrabutylammonium chloride,arginine,50.0,260.0,1.0,6.0,0.14285714300000002,0.857142857,25.0
+tetrabutylammonium chloride,serine,50.0,246.0,1.0,8.0,0.111111111,0.8888888890000001,25.0
+tetrabutylammonium chloride,threonine,50.0,256.0,9.0,1.0,0.9,0.1,20.2
+tetrabutylammonium chloride,methionine,50.0,281.0,11.0,1.0,0.916666667,0.083333333,19
+tetrabutylammonium chloride,alpha-tocopherol,50.0,3.0,1.0,4.0,0.2,0.8,-50
+tetrabutylammonium bromide,formic acid,106.0,8.4,1.0,1.0,0.5,0.5,LRT
+tetrabutylammonium bromide,acetic acid,106.0,16.6,1.0,1.0,0.5,0.5,-19
+tetrabutylammonium bromide,propanoic acid,106.0,-21.0,1.0,1.0,0.5,0.5,-19
+tetrabutylammonium bromide,butanoic acid,106.0,-7.9,1.0,2.0,0.333333333,0.666666667,<25
+tetrabutylammonium bromide,hexanoic acid,106.0,-3.4,1.0,2.0,0.333333333,0.666666667,<25
+tetrabutylammonium bromide,octanoic acid,106.0,16.7,1.0,2.0,0.333333333,0.666666667,<25
+tetrabutylammonium bromide,decanoic acid,106.0,31.6,1.0,2.0,0.333333333,0.666666667,<25
+tetrabutylammonium bromide,oxalic acid,106.0,190.0,1.0,1.0,0.5,0.5,-22
+tetrabutylammonium bromide,malonic acid,106.0,135.0,1.0,1.0,0.5,0.5,-18
+tetrabutylammonium bromide,levulinic acid,106.0,32.0,1.0,4.0,0.2,0.8,0.4
+tetrabutylammonium bromide,ethylene glycol,106.0,-12.9,1.0,2.0,0.333333333,0.666666667,<25
+tetrabutylammonium bromide,sulfolane,106.0,27.5,1.0,7.0,0.125,0.875,<25
+tetrabutylammonium bromide,ethanolamine,106.0,10.3,1.0,6.0,0.14285714300000002,0.857142857,-68
+tetrabutylammonium bromide,diethanolamine,106.0,28.0,1.0,6.0,0.14285714300000002,0.857142857,-77
+tetrahexylammonium bromide,ethylene glycol,100.0,-12.9,1.0,2.0,0.333333333,0.666666667,LRT
+tetrahexylammonium bromide,glycerol,100.0,17.8,1.0,2.0,0.333333333,0.666666667,LRT
+tetraheptylammonium chloride,decanoic acid,40.0,31.6,1.0,2.0,0.333333333,0.666666667,-16.7
+methyltrioctylammonium chloride,decanoic acid,-20.0,31.6,1.0,2.0,0.333333333,0.666666667,9.0
+tetraoctylammonium chloride,decanoic acid,54.0,31.6,1.0,2.0,0.333333333,0.666666667,2.0
+tetraoctylammonium chloride,perfluorodecanoic acid,54.0,77.0,1.0,2.0,0.333333333,0.666666667,LRT
+tetraoctylammonium bromide,decanoic acid,98.0,31.6,1.0,2.0,0.333333333,0.666666667,9.0
+benzyltrimethylammonium chloride,acetic acid,239.0,16.6,1.0,2.0,0.333333333,0.666666667,<-20
+benzyltrimethylammonium chloride,levulinic acid,239.0,32.0,1.0,4.0,0.2,0.8,<-60
+benzyltrimethylammonium chloride,tosylic acid,239.0,100.4,1.0,2.0,0.333333333,0.666666667,-1
+benzyltrimethylammonium chloride,oxalic acid,239.0,190.0,1.0,1.0,0.5,0.5,2
+benzyltrimethylammonium chloride,glycerol,239.0,17.8,1.0,2.0,0.333333333,0.666666667,
+benzyltriethylammonium chloride,acetic acid,192.0,16.6,1.0,2.0,0.333333333,0.666666667,-20
+benzyltriethylammonium chloride,oxalic acid,192.0,190.0,1.0,1.0,0.5,0.5,5
+benzyltriethylammonium chloride,citric acid,192.0,153.0,1.0,1.0,0.5,0.5,26
+benzyltriethylammonium chloride,tosylic acid,192.0,100.4,1.0,2.0,0.333333333,0.666666667,2
+benzyltripropylammonium chloride,ethylene glycol,180.0,-12.9,1.0,3.0,0.25,0.75,<-90
+benzyltripropylammonium chloride,glycerol,180.0,17.8,1.0,3.0,0.25,0.75,<-90
+benzyltripropylammonium chloride,phenol,180.0,40.5,1.0,3.0,0.25,0.75,<-90
+benzyltripropylammonium chloride,lactic acid,180.0,16.8,1.0,3.0,0.25,0.75,-56
+tetrabutylphosphonium bromide,levulinic acid,103.0,32.0,1.0,4.0,0.2,0.8,<-60
+tetrabutylphosphonium bromide,ethylene glycol,103.0,-12.9,1.0,2.0,0.333333333,0.666666667,<25
+methyltriphenylphosphonium bromide,ethylene glycol,234.0,-12.9,1.0,3.0,0.25,0.75,-46
+methyltriphenylphosphonium bromide,glycerol,234.0,17.8,1.0,3.0,0.25,0.75,-24
+methyltriphenylphosphonium bromide,"1,2-propanediol",234.0,-59.0,1.0,4.0,0.2,0.8,
+methyltriphenylphosphonium bromide,triethylene glycol,234.0,-7.0,1.0,4.0,0.2,0.8,-18.2
+methyltriphenylphosphonium bromide,triethylene glycol,234.0,-7.0,1.0,3.0,0.25,0.75,-8
+methyltriphenylphosphonium bromide,acetic acid,234.0,16.6,1.0,4.0,0.2,0.8,<-20
+methyltriphenylphosphonium bromide,levulinic acid,234.0,32.0,1.0,4.0,0.2,0.8,<-60
+methyltriphenylphosphonium bromide,trifluoroacetamide ,234.0,72.5,1.0,8.0,0.111111111,0.8888888890000001,-69
+ethyltriphenylphosphonium iodide,ethylene glycol,168.0,-12.9,1.0,6.0,0.14285714300000002,0.857142857,<30
+ethyltriphenylphosphonium iodide,sulfolane,168.0,27.5,1.0,4.0,0.2,0.8,<30
+allyltriphenylphosphonium bromide,glycerol,225.0,17.8,1.0,14.0,0.066666667,0.933333333,-24
+allyltriphenylphosphonium bromide,diethylene glycol,225.0,-10.45,1.0,4.0,0.2,0.8,<20
+allyltriphenylphosphonium bromide,triethylene glycol,225.0,-7.0,1.0,10.0,0.090909091,0.9090909090000001,-19.5
+benzyltriphenylphosphonium chloride,glycerol,300.0,17.8,1.0,5.0,0.166666667,0.833333333,50
+benzyltriphenylphosphonium chloride,glycerol,300.0,17.8,1.0,16.0,0.058823529000000006,0.9411764709999999,-22
+benzyltriphenylphosphonium chloride,ethylene glycol,300.0,-12.9,1.0,3.0,0.25,0.75,48
+benzyltriphenylphosphonium chloride,triethylene glycol,300.0,-7.0,1.0,8.0,0.111111111,0.8888888890000001,-19.5
+guanidinium chloride,ethanolamine,185.0,10.3,1.0,2.0,0.333333333,0.666666667,<-20
