@@ -84,6 +84,8 @@ def get_similar_hba(dataframe, source_column):
         temp_dataframe['HBA_cid'] = screened_cid_list
         temp_dataframe['HBA_smiles'] = screened_smiles_list
 
+        print(temp_dataframe)
+
         final_df = final_df.append(temp_dataframe)  # appending to final dataframe
 
     return final_df

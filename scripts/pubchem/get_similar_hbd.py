@@ -47,6 +47,8 @@ def get_similar_hbd(dataframe, source_column):
         temp_dataframe['HBD_cid'] = screened_cid_list
         temp_dataframe['HBD_smiles'] = screened_smiles_list
 
+        print(temp_dataframe)
+
         # appending to final dataframe
         final_df = final_df.append(temp_dataframe)
 
