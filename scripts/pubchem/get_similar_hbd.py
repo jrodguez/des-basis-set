@@ -4,7 +4,7 @@ import numpy as np
 import requests
 import json
 
-def get_similar_hba(dataframe, source_column):
+def get_similar_hbd(dataframe, source_column):
 
     # empty dataframe to continuously append final results to.
     final_df = pd.DataFrame()
