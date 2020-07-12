@@ -49,7 +49,7 @@ def get_similar_hba(dataframe, source_column):
         # source column contains the cid's for chemical similarity search.
         cid = row[source_column]
 
-        request_url = "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/fastsimilarity_2d/cid/%s/cids/JSON?Threshold=80&MaxRecords=5000" % str(
+        request_url = "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/fastsimilarity_2d/cid/%s/cids/JSON?Threshold=80&MaxRecords=3000" % str(
             cid)
 
         request = requests.get(request_url)
