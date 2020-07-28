@@ -22,19 +22,28 @@ def get_sid_set(sources):
 
 
 def get_current_vendors(request_dict):
+    
+    if 'Fault' in request_dict:
+        print('no vendor data')
+        vendor_present = False
+        legacy_present = False
+        
 
-    categories = request_dict['SourceCategories']['Categories']
-    vendor_present = False
-    legacy_present = False
-    for cat_item in categories:
-        category = cat_item['Category']
-        sources = cat_item['Sources']
-        if category == 'Chemical Vendors':
-            vendor_present = True
-            vendor_set = get_sid_set(sources)
-        elif category == 'Legacy Depositors':
-            legacy_present = True
-            legacy_set = get_sid_set(sources)
+    else:
+        categories = request_dict['SourceCategories']['Categories']
+        vendor_present = False
+        legacy_present = False
+        for cat_item in categories:
+            category = cat_item['Category']
+            sources = cat_item['Sources']
+            if category == 'Chemical Vendors':
+                vendor_present = True
+                vendor_set = get_sid_set(sources)
+            elif category == 'Legacy Depositors':
+                legacy_present = True
+                legacy_set = get_sid_set(sources)
+                
+    
 
     # Check if at least chemical vendors or legacy depositors is present.
     if vendor_present is False and legacy_present is False:
@@ -63,6 +72,7 @@ def vendor_status(dataframe, source_column):
             'categories/compound/' + cid + '/JSON'
         request = requests.get(target_url)
         request_dict = request.json()
+        print(cid)
         # At this point you have the target URL and have put it in a
         # dictionary. Now the game is to look at different possible cases, i.e.
         # look at different cid's and find ones which have and don't have
@@ -76,6 +86,8 @@ def vendor_status(dataframe, source_column):
         else:
             has_current_vendors = True
         vendor_status.append(has_current_vendors)
+        
 
     dataframe['Vendor Status'] = vendor_status
+    
     return dataframe
