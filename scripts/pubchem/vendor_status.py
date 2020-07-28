@@ -37,10 +37,20 @@ def get_current_vendors(request_dict):
             legacy_set = get_sid_set(sources)
 
     # Check if at least chemical vendors or legacy depositors is present.
-    if vendor_present == False and legacy_present == False:
+    if vendor_present is False and legacy_present is False:
         return set([])
-
-    current_vendors = vendor_set-legacy_set
+    
+    if vendor_present is True and legacy_present is True:
+    
+        current_vendors = vendor_set-legacy_set
+        
+    if vendor_present is True and legacy_present is False:
+        
+        current_vendors = vendor_set
+        
+    if vendor_present is False and legacy_present is True:
+        
+        current_vendors = {*()} #empty set
 
     return current_vendors
 
