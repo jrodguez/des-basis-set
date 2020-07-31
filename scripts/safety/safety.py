@@ -55,10 +55,13 @@ def get_hazard_codes(cid):
         
         GHS_information_list = [] #list that contains GHS information in which hazard codes are located.
         
-        for i in range(len(request_json['Record']['Section'][0]['Section'][0]['Section'][0]['Information'][2]['Value']['StringWithMarkup'])):
-            temp_list = [] #temporary list each sentance gets added to before appending to GHS list
-            temp_list.append(request_json['Record']['Section'][0]['Section'][0]['Section'][0]['Information'][2]['Value']['StringWithMarkup'][i]['String'])
-            GHS_information_list.append(temp_list)
+        for i in range(len(request_json['Record']['Section'][0]['Section'][0]['Section'][0]['Information'])):
+            if request_json['Record']['Section'][0]['Section'][0]['Section'][0]['Information'][i]['Name'] == 'GHS Hazard Statements':
+        #checking above for section that contains GHS hazards. Code below extracts each of the sentances to parse for hazard codes later
+                for j in range(len(request_json['Record']['Section'][0]['Section'][0]['Section'][0]['Information'][i]['Value']['StringWithMarkup'])):
+                    temp_list = [] #temporary list each sentance gets added to before appending to GHS list
+                    temp_list.append(request_json['Record']['Section'][0]['Section'][0]['Section'][0]['Information'][i]['Value']['StringWithMarkup'][j]['String'])
+                    GHS_information_list.append(temp_list)
             
         #this portion checks for lists with empty string '' that will break the code if not removed
         for item in GHS_information_list:
@@ -80,12 +83,31 @@ def get_hazard_codes(cid):
                 if len(item) == 0:
                     hazard_description_list.remove(item)
                     
-        hazard_code_list = [] #list that contains all of the hazard codesfor the chemcial
+        hazard_code_list = [] #list that contains all of the hazard codes for the chemcial
         
-        for item in hazard_description_list:
+        for item in hazard_description_list: #grabs only hazard code from item in list
             string = item[0]
             hazard = string.split(' ', 1)[0]
             hazard_code_list.append(hazard)
             
-        return hazard_code_list
+        cleaned_hazard_code_list = []
+
+        for code in hazard_code_list:
+            # some of the codes end with a colon from extarcting from jsons. Remove them here if present.
+            if code.endswith(':'):
+                # removes last string from item, which will be the colon.
+                code = code[:-1]
+                cleaned_hazard_code_list.append(code)
+            
+            else: 
+                cleaned_hazard_code_list.append(code)
+
+
+        filtered_hazard_code_list = [] 
+        #list comprehension to remove duplicates from the cleaned hazrad codes list
+        [filtered_hazard_code_list.append(x) for x in cleaned_hazard_code_list if x not in filtered_hazard_code_list] 
+
+            
+        return filtered_hazard_code_list
+                    
                     
