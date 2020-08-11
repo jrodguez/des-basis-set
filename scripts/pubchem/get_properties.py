@@ -18,7 +18,7 @@ def get_properties(dataframe, properties_list, source_column, name_prefix):
 
         # will return the properties as seperate df
         temporary_df = pcp.get_properties(
-            properties_list, cids, as_dataframe=True)
+            properties_list, cids, listkey_count=3, as_dataframe=True)
 
         # append result to empty dataframe
         empty_df = temporary_df.append(empty_df)
