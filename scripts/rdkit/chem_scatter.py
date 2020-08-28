@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
@@ -24,7 +26,7 @@ graph_component = dcc.Graph(
                 opacity=0.7,
                 marker={
                     'size': 5,
-                    'color': 'orange',
+                    'color': 'blue',
                     'line': {'width': 0.5, 'color': 'white'}
                 },
                 name="HBD./chem_scatter.py"
@@ -32,7 +34,7 @@ graph_component = dcc.Graph(
             
         ],
         'layout': go.Layout(
-            height=400,
+            height=1000,
             xaxis={'title': 'X'},
             yaxis={'title': 'Y'},
             margin={'l': 40, 'b': 40, 't': 10, 'r': 10},
@@ -57,20 +59,21 @@ app.layout = html.Div([
     Output('structure-image', 'src'),
     [Input('tsne', 'selectedData')])
 def display_selected_data(selectedData):
-    max_structs = 12
-    structs_per_row = 6
+    max_structs = 24
+    structs_per_row = 8
     empty_plot = "data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA="
     if selectedData:
         if len(selectedData['points']) == 0:
             return empty_plot
         match_idx = [x['pointIndex'] for x in selectedData['points']]
-        match_df = df.iloc[match_idx]
-        smiles_list = list(match_df.SMILES)
-        name_list = list(match_df.Name)
-        active_list = list(df.is_active)
-        mol_list = [Chem.MolFromSmiles(x) for x in smiles_list]
-        name_list = [x + " " + str(y) for (x, y) in zip(name_list, active_list)]
-        img = MolsToGridImage(mol_list[0:max_structs], molsPerRow=structs_per_row, legends=name_list)
+        smiles_list = [Chem.MolFromSmiles(x)
+                       for x in list(df.iloc[match_idx].SMILES)]
+        cid_list = list(df.iloc[match_idx].CID)
+        rank_list = list(df.loc[match_idx]['rank'])
+        name_list = [str(x) + "    " + str(y) for (x, y) in zip(cid_list, rank_list)]
+                     
+        img = MolsToGridImage(
+            smiles_list[0:max_structs], molsPerRow=structs_per_row, legends=name_list)
         buffered = BytesIO()
         img.save(buffered, format="JPEG")
         encoded_image = base64.b64encode(buffered.getvalue())
