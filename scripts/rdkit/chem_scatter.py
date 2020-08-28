@@ -84,6 +84,6 @@ def display_selected_data(selectedData):
 
 if __name__ == '__main__':
     import socket
-    hostname = socket.gethostname()
-    IPAddr = socket.gethostbyname(hostname)    
+    #hostname = socket.gethostname()
+    IPAddr = socket.gethostbyname('localhost')    
     app.run_server(debug=True,host=IPAddr)
